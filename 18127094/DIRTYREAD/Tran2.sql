@@ -1,0 +1,1 @@
+EXEC NV_XemThongTinKhachHang @MaKH = 15

@@ -1,0 +1,1 @@
+exec AD_XoaNhanVien 1
